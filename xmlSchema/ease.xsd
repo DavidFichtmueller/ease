@@ -9440,7 +9440,6 @@
 	  </xs:documentation>
 	</xs:annotation>
       </xs:enumeration>
-      </xs:enumeration>
       <xs:enumeration value="Nature Reserve">
 	<xs:annotation>
 	  <xs:documentation xml:lang="en">
